@@ -5,3 +5,5 @@
 # Hi
 
 Wasssup
+[[folder/New\|New]]
+
