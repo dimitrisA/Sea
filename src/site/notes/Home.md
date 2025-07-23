@@ -7,3 +7,4 @@
 Wasssup
 [[folder/New\|New]]
 
+[[two\|two]]
