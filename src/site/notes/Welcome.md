@@ -1,5 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/"}
+{"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
 Welcome!
+
