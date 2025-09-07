@@ -32,6 +32,7 @@ Asymptomatic RBBB/LBBB/bifascicular/trifascicular block need no pacing, unless a
 - Unexplained, non-neurally mediated syncope in patient with RBBB or LBBB. Likely paroxysmal AV block; pacing reasonable (**ACC/AHA Class IIa**). PRESS study: pacing ↓ syncope recurrence by 60%. EPS mainly to exclude inducible VT (present in ~14–30%).
 - Rate-dependent BBB at lower HR (<130 bpm). Managed as non–rate-related BBB
 - Bradycardia or pause-dependent BBB/AV block. Suggests infranodal disease → pacing indicated.
+	- After a **pause, typically post-PVC pause, or bradycardia**, the next atrial impulse may arrive when the diseased **His–Purkinje fibers are still refractory** (from concealed retrograde conduction or long cycle length). These pts usually also have tachycardia-dependent BBB, and the HR of normal conduction may be very narrow (e.g. 55-75 bpm).
 
 ## Other clinical settings
 
